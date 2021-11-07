@@ -126,8 +126,8 @@ function handleBubbleCollision(bubbleGroup){
    //  blast= sprite(bullet.x+60, bullet.y, 50,50);
    // blast.addImage(blastImg)
 
-   //  blast= createSprite(bullet.x+60, bullet.y, 50,50);
-   // blast.addImage(blastImg)
+     blast= createSprite(bullet.x+60, bullet.y, 50,50);
+    blast.addImage(blastImg)
 
    //  blast= createSprite(bullet.x+60, bullet.y, 50,50);
    // image(blastImg)
